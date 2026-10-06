@@ -1,0 +1,7 @@
+# Development tools
+brew "actionlint"
+brew "cocoapods"
+brew "graphviz"
+brew "watchman"
+
+brew "postgresql@18"

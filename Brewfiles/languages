@@ -1,0 +1,8 @@
+# Languages & runtimes
+brew "dotnet"
+brew "go"
+brew "node"
+brew "node@24"
+brew "yarn"
+
+go "github.com/rhysd/actionlint/cmd/actionlint"

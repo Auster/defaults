@@ -1,0 +1,9 @@
+# C/C++ & embedded development
+brew "clang-format"
+brew "cmake"
+brew "dfu-util"
+brew "hidapi"
+brew "libusb"
+brew "lsusb"
+
+cask "macfuse"

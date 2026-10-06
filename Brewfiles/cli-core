@@ -1,0 +1,11 @@
+# Core CLI tools
+brew "curl"
+brew "dos2unix"
+brew "git"
+brew "gh"
+brew "make"
+brew "p7zip"
+brew "pwgen"
+brew "tree"
+brew "vim"
+brew "wget"
